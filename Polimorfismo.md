@@ -1,4 +1,4 @@
-La capacidad de un método de comportarse de manera diferente variando entre clases relacionadas por la herencia (polimorfismo de inclusión, a través de la sobreescritura/overriding), o variando dentro de una misma clase entre los distintos argumentos que recibe (polimorfismo Ad-hoc, a través de la sobrecarga/overloading).
+> La capacidad de un método de comportarse de manera diferente variando entre clases relacionadas por la herencia (polimorfismo de inclusión, a través de la sobreescritura/overriding), o variando dentro de una misma clase entre los distintos argumentos que recibe (polimorfismo Ad-hoc, a través de la sobrecarga/overloading).
 
 Sobrecarga de métodos:
 Permite definir múltiples métodos con el mismo nombre pero con diferentes parámetros (diferente número o tipo de argumentos).
