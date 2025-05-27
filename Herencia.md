@@ -9,7 +9,8 @@ Tipos de herencia:
 
 Cómo cambia el acceso a miembros heredados según el modificador de acceso usado en la declaración de herencia:
 - Con public:
-  | Modificador | Cambios en sus miembros |
+
+| Modificador | Cambios en sus miembros |
 | ----------- | ----------- |
 | public | Permanecen public |
 | protected | Permancen protected |
