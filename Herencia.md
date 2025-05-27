@@ -24,3 +24,10 @@ Cómo cambia el acceso a miembros heredados según el modificador de acceso usad
 | protected | Permanecen protected |
 | private | No son accesibles |
   
+- Con private (Herencia Privada):
+
+| Modificador | Cambios en los miembros heredados respecto a la clase base |
+| ----------- | ----------- |
+| public | Serán private |
+| protected | Serán private |
+| private | No son accesibles |
