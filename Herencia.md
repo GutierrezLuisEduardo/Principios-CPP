@@ -8,11 +8,19 @@ Tipos de herencia:
 - Con métodos virtuales: para polimorfismo.
 
 Cómo cambia el acceso a miembros heredados según el modificador de acceso usado en la declaración de herencia:
-- Con public:
+- Con public (Herencia Pública):
 
-| Modificador | Cambios en sus miembros |
+| Modificador | Cambios en los miembros heredados respecto a la clase base |
 | ----------- | ----------- |
 | public | Permanecen public |
-| protected | Permancen protected |
-| private | No son accesibles desde la clase derivada |
+| protected | Permanecen protected |
+| private | No son accesibles |
+  
+- Con protected (Herencia Protegida):
+
+| Modificador | Cambios en los miembros heredados respecto a la clase base |
+| ----------- | ----------- |
+| public | Serán protected |
+| protected | Permanecen protected |
+| private | No son accesibles |
   
